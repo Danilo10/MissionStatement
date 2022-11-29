@@ -1,1 +1,3 @@
 # MissionStatement
+
+Hola Soy Oscar Danilo Pérez, Soy Ingeniero En Sistemas de Información y Ciencias de la computación egresado de la Universidad Mariano Gálvez de Guatemala. Tengo experiencia en el área de Soporte técnico y de Redes Informáticas, tengo un poco de conocimiento en desarrollo web pero deseo aprender y adquirir conocimientos solidos en esta área. Uno de mis objetivos a corto plazo es encontrar un trabajo remoto como desarrollador de software o en el área de seguridad Informática ya que me apasiona este campo. Me considero una persona que siempre trata de resolver los diferentes problemas que se le presentan, una persona autodidacta, responsable y sobre todo un Ingeniero que ama su profesión!
